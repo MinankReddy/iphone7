@@ -14,7 +14,7 @@ public class Step {
 	
 	WebDriver d;
 	
-	
+	// this is sushmitha
 
 	@Given("^when user is in home page$")
 	public void when_user_is_in_home_page() throws Throwable {
@@ -41,7 +41,7 @@ public class Step {
 		d.findElement(By.className("actionButtonText")).click();
 		Thread.sleep(5000);
 	    // Write code here that turns the phrase above into concrete actions
-	    
+	    //
 	}
 	*/
 	
